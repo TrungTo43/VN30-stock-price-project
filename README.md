@@ -4,7 +4,11 @@ In this project, I crawled the stock price data of VN30 companies (updated on Se
 
 1. Introduction
 
-    Bài này để làm gì? Câu hỏi, mục đích, lý do?
+    Bài nghiên cứu áp dụng thuật toán phân loại cổ phiếu cho 30 công ty VN30 được niêm yết trên sàn chứng khoán. Qua đó, phục vụ cho mục đích phân loại, đánh giá cổ phiếu trong tương lai cho các nhà đầu tư. 
+    
+    Thời gian của bài nghiên cứu từ năm 2019-2021 (bao gồm thời điểm trước và trong dịch covid). Mặc dù tác giả cũng mong muốn thu thập được số liệu năm 2022 (vì là thời điểm sau dịch COVID) nhưng do số liệu của năm 2022 tính tới thời điểm hoàn thiện nghiên cứu chưa có đầy đủ nên số liệu này sẽ không được crawl từ hệ thống.
+    
+    Các câu hỏi: Có thể phân thành mấy nhóm cổ phiếu từ giá trị của 30 cổ phiếu các công ty VN30.  
 
 2. Table of contents
 
@@ -16,4 +20,7 @@ In this project, I crawled the stock price data of VN30 companies (updated on Se
     
 3. Methodology and results: Upload code link for this section
 
-4. Conclusion
+4. Conclusion 
+
+    Bài nghiên cứu được thực hiện bởi một DA chưa có nhiều kinh nghiệm nên có thể sẽ không được hoàn thiện và chuyên nghiệp như các chuyên gia trong lĩnh vực Data.
+    Nghiên cứu sẽ được bổ sung dữ liệu năm 2022 một khi dữ liệu năm 2022 khả thi nhằm cho ra phân tích chính xác nhất

@@ -8,12 +8,12 @@ In this project, I crawled the stock price data of VN30 companies (updated on Se
 
 2. Table of contents
 
-    1
-    2
-    3
-    4
+    1. Import libraries and the dataset
+    2. Clean the dataset
+    3. EDA
+    4. Apply the hierarchical clustering algorithms
+    5. Data visualization for two clusters
     
 3. Methodology and results: Upload code link for this section
-
 
 4. Conclusion

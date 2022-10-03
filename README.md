@@ -18,7 +18,7 @@ In this project, I crawled the stock price data of VN30 companies (updated on Se
     4. Apply the hierarchical clustering algorithms
     5. Data visualization for the clusters of stock price
     
-3. Methodology and results: Upload code link for this section
+3. Methodology and results: https://github.com/TrungTo43/VN30-stock-price-project/blob/c43e78a408e0c4c61bf1f46012104905f3b6cfda/Application%20of%20the%20clustering%20algorithm%20for%20VN30%20companies%20(2019-2021).ipynb
 
 4. Conclusion and improvement
 

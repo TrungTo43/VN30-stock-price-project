@@ -25,4 +25,4 @@ In this project, I crawled the stock price data of VN30 companies (updated on Se
 
     The research is done by a fresher Data Analyst, so it may not be as complete and professional as experts in the Data industry.
     
-    Nghiên cứu sẽ được bổ sung dữ liệu năm 2022 một khi dữ liệu năm 2022 khả thi nhằm cho ra phân tích chính xác nhất
+    The study will be supplemented with data in 2022 once this data is available.

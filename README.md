@@ -4,11 +4,12 @@ In this project, I crawled the stock price data of VN30 companies (updated on Se
 
 1. Introduction
 
-    Bài nghiên cứu áp dụng thuật toán phân loại cổ phiếu cho 30 công ty VN30 được niêm yết trên sàn chứng khoán. Bài nghiên cứu phục vụ cho mục đích phân loại cổ phiếu theo nhóm qua đó hỗ trợ cho các nhà đầu tư cho việc đánh giá cổ phiếu chính xác hơn. 
+    The study applies the stock classification algorithm to VN30 companies listed on the stock exchange. The study serves the purpose of classifying stocks by group and supporting investors for more accurate stock evaluation. 
     
-    Thời gian của bài nghiên cứu từ năm 2019-2021 (bao gồm thời điểm trước và trong dịch covid). Mặc dù tác giả cũng mong muốn thu thập được số liệu năm 2022 (vì là thời điểm sau dịch COVID) nhưng do số liệu của năm 2022 tính tới thời điểm hoàn thiện nghiên cứu chưa có đầy đủ nên số liệu này sẽ không được crawl từ hệ thống.
+    Thời gian thu thập số liệu của bài nghiên cứu từ năm 2019-2021 (bao gồm thời điểm trước và trong dịch covid). Mặc dù tác giả cũng mong muốn thu thập được số liệu năm 2022 (vì là thời điểm sau dịch COVID) nhưng do số liệu của năm 2022 tính tới thời điểm hoàn thiện nghiên cứu chưa có đầy đủ nên số liệu này sẽ không được crawl từ hệ thống.
+    The data collection period of this study is from 2019-2021 (including the time before and during the COVID-19 epidemic). Although I wants to collect data in 2022 (because it is the time after the COVID-19 epidemic), the data of 2022 up to the time of completion of the study is incomplete. Therefore, the data of stock price in 2022 will not be crawled.
     
-    Các câu hỏi: Có thể phân thành mấy nhóm cổ phiếu từ giá trị của 30 cổ phiếu các công ty VN30.  
+    Questions to answer: How many groups of stocks can be classified from the stock price of VN30 companies. 
 
 2. Table of contents
 
@@ -22,5 +23,6 @@ In this project, I crawled the stock price data of VN30 companies (updated on Se
 
 4. Conclusion 
 
-    Bài nghiên cứu được thực hiện bởi một DA chưa có nhiều kinh nghiệm nên có thể sẽ không được hoàn thiện và chuyên nghiệp như các chuyên gia trong lĩnh vực Data.
+    The research is done by a fresher Data Analyst, so it may not be as complete and professional as experts in the Data industry.
+    
     Nghiên cứu sẽ được bổ sung dữ liệu năm 2022 một khi dữ liệu năm 2022 khả thi nhằm cho ra phân tích chính xác nhất

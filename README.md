@@ -20,8 +20,17 @@ In this project, I crawled the stock price data of VN30 companies (updated on Se
     
 3. Methodology and results: Upload code link for this section
 
-4. Conclusion 
+4. Conclusion and improvement
 
-    The research is done by a fresher Data Analyst, so it may not be as complete and professional as experts in the Data industry.
+    4.1 Conclusion 
+    
+    There are two groups of stock price: 
+    
+    - Financial-related companies
+    - Service-providing and manufacturing companies
+    
+    4.2 Improvement
+    
+    The research is done by a fresher Data Analyst, so it may not be complete and professional incomparison with the expert's study in the Data industry.
     
     The study will be supplemented with data in 2022 once this data is available.

@@ -1,10 +1,10 @@
 # VN30 stock price project (2019-2021)
 
-In this project, I crawled the stock price data of VN30 companies (updated on Sep 2022) using the vnquant library of Mr. Pham Dinh Khanh (https://github.com/phamdinhkhanh/vnquant). After that, I applied the clustering algorithm to this dataset to divide 30 listed companies in VN30 into 2 groups of stock.
+In this project, I crawled the stock price data of VN30 companies (updated on Sep 2022) using the vnquant library of Mr. Pham Dinh Khanh (https://github.com/phamdinhkhanh/vnquant). After that, I applied the clustering algorithm to this dataset to classify 30 listed companies in VN30 into two clusters.
 
 1. Introduction
 
-    Bài nghiên cứu áp dụng thuật toán phân loại cổ phiếu cho 30 công ty VN30 được niêm yết trên sàn chứng khoán. Qua đó, phục vụ cho mục đích phân loại, đánh giá cổ phiếu trong tương lai cho các nhà đầu tư. 
+    Bài nghiên cứu áp dụng thuật toán phân loại cổ phiếu cho 30 công ty VN30 được niêm yết trên sàn chứng khoán. Bài nghiên cứu phục vụ cho mục đích phân loại cổ phiếu theo nhóm qua đó hỗ trợ cho các nhà đầu tư cho việc đánh giá cổ phiếu chính xác hơn. 
     
     Thời gian của bài nghiên cứu từ năm 2019-2021 (bao gồm thời điểm trước và trong dịch covid). Mặc dù tác giả cũng mong muốn thu thập được số liệu năm 2022 (vì là thời điểm sau dịch COVID) nhưng do số liệu của năm 2022 tính tới thời điểm hoàn thiện nghiên cứu chưa có đầy đủ nên số liệu này sẽ không được crawl từ hệ thống.
     

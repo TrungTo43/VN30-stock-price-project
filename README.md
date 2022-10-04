@@ -8,7 +8,7 @@ In this project, I crawled the stock price data of VN30 companies (updated on Se
     
     The data collection period of this study is from 2019-2021 (including the time before and during the COVID-19 epidemic). Although I wants to collect data in 2022 (because it is the time after the COVID-19 epidemic), the data of 2022 up to the time of completion of the study is incomplete. Therefore, the data of stock price in 2022 will not be crawled.
     
-    Questions to answer: How many groups of stocks can be classified from the stock price of VN30 companies. 
+    Questions to answer: How many groups of stocks can be classified from the stock price of VN30 companies?
 
 2. Table of contents
 
